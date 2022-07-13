@@ -39,7 +39,7 @@ function Dashboard() {
     <>
       <section className='heading'>
         <h1>Welcome {user && user.name}</h1>
-        <p>Goals Dashboard</p>
+        <p>Support Dashboard</p>
       </section>
 
       <GoalForm />
@@ -52,7 +52,7 @@ function Dashboard() {
             ))}
           </div>
         ) : (
-          <h3>You have not set any goals</h3>
+          <h3>You have placed any tickets</h3>
         )}
       </section>
     </>
