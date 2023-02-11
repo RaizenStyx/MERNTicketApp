@@ -1,5 +1,7 @@
 # Support Ticket MERN app
 
+## Was hosted, but did not have enough traffic to keep active. Here is the code for my MERN app.
+
 ## Usage
 
 Can set tickets that only you can see.
